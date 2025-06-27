@@ -1,0 +1,10 @@
+kagglehub
+tqdm
+numpy
+numpy-hilbert-curve
+
+cryptography
+ecdsa
+setuptools
+pycryptodome
+redis
